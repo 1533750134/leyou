@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8ffb564-6fd4-4c4b-bfe5-b0bcd6a55620" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vwg69t8l2TxrTuBvOKI2ikZ59F" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Git/bin/git.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\daima\leyou\leyou-upload\src\main\resources" />
+      <recent name="F:\daima\leyou\leyou-item\leyou-item-service\src\main\resources" />
+      <recent name="F:\daima\leyou\leyou-gateway\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.wojia.item.mapper" />
+      <recent name="cn.wojia.item.service" />
+      <recent name="cn.wojia.item.pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LeyouUploadApplication">
+    <configuration name="FastDFSTest.testUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyouupload" />
+      <option name="PACKAGE_NAME" value="cn.wojia.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.wojia.test.FastDFSTest" />
+      <option name="METHOD_NAME" value="testUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastDFSTest.testUploadAndCreateThumb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyouupload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wojia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.wojia.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.wojia.test.FastDFSTest" />
+      <option name="METHOD_NAME" value="testUploadAndCreateThumb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyougateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wojia.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wojia.common.LeyouGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyouitemservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wojia.item.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wojia.item.LeyouItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyouregistry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wojia.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wojia.common.LeyouRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyouupload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wojia.LeyouUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LeyouRegistryApplication" />
+        <item itemvalue="Spring Boot.LeyouItemServiceApplication" />
+        <item itemvalue="Spring Boot.LeyouGatewayApplication" />
+        <item itemvalue="JUnit.FastDFSTest.testUploadAndCreateThumb" />
+        <item itemvalue="JUnit.FastDFSTest.testUpload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@75325b11" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8ffb564-6fd4-4c4b-bfe5-b0bcd6a55620" name="Default Changelist" comment="" />
+      <created>1627478386227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627478386227</updated>
+      <workItem from="1627478389373" duration="1254000" />
+      <workItem from="1627479665896" duration="2968000" />
+      <workItem from="1627518786862" duration="1236000" />
+      <workItem from="1627604872780" duration="14213000" />
+      <workItem from="1627696245708" duration="741000" />
+      <workItem from="1627962830170" duration="18184000" />
+      <workItem from="1628037321601" duration="15983000" />
+      <workItem from="1628123456194" duration="14870000" />
+      <workItem from="1628156830076" duration="1836000" />
+      <workItem from="1628209784494" duration="697000" />
+      <workItem from="1628222033754" duration="11860000" />
+      <workItem from="1628296321933" duration="14411000" />
+      <workItem from="1628414627969" duration="592000" />
+      <workItem from="1628469042408" duration="5954000" />
+      <workItem from="1628488802137" duration="1979000" />
+      <workItem from="1628492888638" duration="6916000" />
+      <workItem from="1628555559726" duration="712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
